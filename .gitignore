@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/RainDogsUni/.vs/RainDogsUni
+/RainDogsUni/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+/RainDogsUni/RainDogsUni.Web/bin
+/RainDogsUni/RainDogsUni.Web/obj/Debug
+/RainDogsUni/RainDogsUni.Web/Properties
+/RainDogsUni/RainDogsUni.Web/RainDogsUni.Web.csproj.user
+/RainDogsUni/RainDogsUni.Web/App_Data
+/RainDogsUni/packages
+/RainDogsUni/RainDogsUni.Web/Umbraco
